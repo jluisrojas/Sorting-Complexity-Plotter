@@ -1,6 +1,6 @@
 > #### Info
 >
-> Matter: Algoritmos y Complejiada <br>
+> Materia: Algoritmos y Complejiada <br>
 > Profesor: Juan Carlos Cuevas Tello <br>
 > Alumno: Jose Luis Rojas Aranda <br>
 > Ing. Sistemas Inteligentes, UASLP <br>
