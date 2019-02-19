@@ -10,12 +10,12 @@ Runtime plotter for Sorting algorithms made in Python
 
 ![Grafica](/assets/graficador.png)
 
-## Setup
+## ⚙️ Setup
 The packages needed are:
 * Numpy
 * Matplotlib
 
-## Running tests
+## 📈 Running tests
 Run the following file:
 ```python
 python Graficador.py
