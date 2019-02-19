@@ -1,4 +1,4 @@
-
+# Diferentes algoritmos de ordenacion
 # Algoritmo de ordenacion burbuja
 def BubbleSort(lista):
     for num in range(len(lista)-1, 0, -1):
