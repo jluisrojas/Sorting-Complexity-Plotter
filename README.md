@@ -1,9 +1,9 @@
 > #### Info
 >
-> Matter: Algoritmos y Complejiada
-> Profesor: Juan Carlos Cueva Tello
-> Ing. Sistemas Inteligentes UASLP
-------
+> Matter: Algoritmos y Complejiada <br>
+> Profesor: Juan Carlos Cuevas Tello <br>
+> Alumno: Jose Luis Rojas Aranda <br>
+> Ing. Sistemas Inteligentes, UASLP <br>
 
 # Sorting-Complexity-Plotter (🐍Python)
 Runtime plotter for Sorting algorithms made in Python
