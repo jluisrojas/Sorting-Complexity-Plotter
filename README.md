@@ -6,7 +6,7 @@
 > Ing. Sistemas Inteligentes, UASLP <br>
 
 # Sorting-Complexity-Plotter (🐍Python)
-Runtime plotter for Sorting algorithms in Python
+Runtime plotter for sorting algorithms in Python.
 
 ![Grafica](/assets/graficador.png)
 
