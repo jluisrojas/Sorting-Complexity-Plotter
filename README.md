@@ -1,2 +1,2 @@
 # Sorting-ComplexityGraph (🐍Python)
-Running time of Sorting algorithms plotter made in Python
+Runtime plotter for Sorting algorithms made in Python
